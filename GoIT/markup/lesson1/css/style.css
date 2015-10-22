@@ -1,0 +1,32 @@
+﻿body{
+	background-color: #eeeeee;
+	}
+		.main{
+			background-color: white;
+			box-shadow:1px -1px 1px 0px rgba(214,214,214, 0.76);
+			margin: 0px 450px 50px 450px;
+			border-radius:2px;
+			line-height:30px;
+		}
+		.title {
+			padding-top: 40px;
+			text-align: center;
+		}		
+		img {
+			border-radius:10px;
+		}
+		p{
+			margin-left: 60px;
+			margin-right: 60px;
+			
+		}
+		hr{
+			margin-left: 50px;
+			margin-right: 50px;
+			
+		}
+		ul{
+			margin-left: 40px;
+			margin-right: 40px;
+			
+		}
